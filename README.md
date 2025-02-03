@@ -11,7 +11,7 @@ _Note: A BashBox is package like a Cargo Crate, but for Bash. It can be installe
 Be sure you have bash, curl & gawk installed, then run:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SherpaBasecamp/sherpa/refs/heads/master/tools/install.sh | bash
+bash -c "$(curl -sLo- https://sherpa-cli.netlify.app/install.sh)"
 ```
 
 Check [the QuickInstall](https://sherpa-cli.netlify.app/install/install/) page in the documantation.
