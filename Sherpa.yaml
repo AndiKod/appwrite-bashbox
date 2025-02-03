@@ -1,0 +1,12 @@
+package:
+  name: appwrite
+  description: "Basic CRUD operations on Appwrite, from Sh:erpa"
+  author: Andrei Curelaru
+  version: 0.1.0
+  repo: github.com/AndiKod/appwrite-bashbox
+  executable: appwrite
+  root: /home/andikod/sherpa/boxes/appwrite
+  type: localBin
+
+dependencies:
+  - appwrite

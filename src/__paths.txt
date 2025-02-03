@@ -1,0 +1,7 @@
+src/_globals.sh
+/home/andikod/.sherpa/basecamp.sh
+/home/andikod/.sherpa/lib/std/fmt.sh
+/home/andikod/sherpa/lib/appwrite/crud.sh
+src/_options.sh
+src/_lib.sh
+src/bin.sh
